@@ -19,6 +19,16 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 Ou importá-lo para o Google Colab e rodar o código lá.
 
+### Bibliotecas utilizadas
+
+* [PyPDF2](https://pypi.org/project/PyPDF2/)
+* [gTTS](https://pypi.org/project/gTTS/)
+* [pydub](https://pypi.org/project/pydub/)
+* [pyttsx3](https://pypi.org/project/pyttsx3/)
+* [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
+* [os](https://docs.python.org/3/library/os.html)
+* [tkinter](https://docs.python.org/3/library/tkinter.html)
+
 ### Instalando as bibliotecas na sua máquina
 ```python
 %pip install gTTS
@@ -26,6 +36,7 @@ Ou importá-lo para o Google Colab e rodar o código lá.
 %pip install pydub
 %pip install pyttsx3
 %pip install SpeechRecognition
+%pip install tkinter
 ```
 ### Instalando as bibliotecas no Google Colab
 ```python
@@ -34,6 +45,7 @@ Ou importá-lo para o Google Colab e rodar o código lá.
 !pip install pydub
 !pip install pyttsx3
 !pip install SpeechRecognition
+!pip install tkinter
 ```
 
 ### Como utilizar
@@ -55,14 +67,6 @@ python main.py
 7. O programa irá perguntar se você deseja sair do programa, digite _s_ para sim e _n_ para não
 
 
-### Bibliotecas utilizadas
-
-* [PyPDF2](https://pypi.org/project/PyPDF2/)
-* [gTTS](https://pypi.org/project/gTTS/)
-* [pydub](https://pypi.org/project/pydub/)
-* [pyttsx3](https://pypi.org/project/pyttsx3/)
-* [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
-* [os](https://docs.python.org/3/library/os.html)
 
 ### Autor 
 ---
